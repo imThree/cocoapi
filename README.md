@@ -1,5 +1,7 @@
 Clone of COCO API - http://cocodataset.org/
 ===========================================
+New Mirror: https://git.dev.tencent.com/imthree/cocoapi.git
+===========================================
 
 # Original README:
 
